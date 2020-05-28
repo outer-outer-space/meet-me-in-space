@@ -1,0 +1,15 @@
+created: 20200525221320705
+modified: 20200525234201092
+title: About this Garden
+type: text/vnd.tiddlywiki
+
+🌱 ''This is a static representation of a personal wiki run by [[Sarah Hibner|http://sarah-hibner.com/]]. It has limited functionality (e.g. tags don't work) compared to the local version. ''
+
+This wiki was built using TiddlyWiki and Node JS. It's hosted on GitHub Pages, and uses quite a few modifications, including the following:
+
+* [[Whitespace|http://j.d.whitespace.tiddlyspot.com/]] theme
+* [[TiddlyBlink|https://giffmex.org/gifts/tiddlyblink.html#TiddlyBlink%20home]] plugin
+* [[Markdown|https://tiddlywiki.com/plugins/tiddlywiki/markdown/]] parser plugin based on [[Remarkable|https://github.com/jonschlinkert/remarkable]] by Jon Schlinkert
+* [[Chomsky|https://www.fontsquirrel.com/fonts/chomsky]] web font by Fredrick Brennan
+
+//PS: If you noticed the favicon's working, I know about it. It seems like multiple TiddlyWiki users have had this problem when using GitHub Pages, and there doesn't seem to be a good workaround as of May 2020. The tradeoff's worth it for me.//

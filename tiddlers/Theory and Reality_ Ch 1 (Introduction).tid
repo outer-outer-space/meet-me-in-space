@@ -1,0 +1,167 @@
+created: 20200525032352613
+modified: 20200525192431164
+tags: BookNotes Philosophy Science
+title: Theory and Reality: Ch 1 (Introduction)
+type: text/x-markdown
+
+## 1.1 (Setting Out)
+This book is a survey of the past 100 years of argument about the nature of science, including the following lines of inquiry:
+1. What is science?
+2. How does science work?
+3. What makes science different from other ways of investigating the world?
+
+---
+
+## 1.2 (The Scope of the Theory)
+-> What counts as science?
+
+### Survey of the Word’s Meaning Over Time:
+1. During ancient, medieval, & early modern times:
+The word *science* is derived from Latin *scientia*, which referred to the results of logical demonstrations that revealed general and necessary truths – in the form of the kinds of proofs you see in mathematics and geometry today.
+2. In the 1600’s, fields we now call *science* were called: 
+	* *natural philosophy*(inquiries into the causes of things)
+	* *natural history* (descriptions of the contents of the world) 
+3. Starting in the 1800’s and carrying into modern times:
+The word *science* is used for work with closer links to observation and experiment as opposed to an ideal of conclusive proof.
+
+### Breadth of Philosophical Interpretations of the Word ‘Science’:
+1. **Broad:** Science is any work that assesses ideas and solves problems in a way that’s guided by observational evidence.
+	* Which means it’s found in all human cultures even though the word is a Western invention.
+2. **Narrow:** Science is a cultural phenomenon that’s localized in space and time. It’s a special social institution with a definite history – something that descends from specific people and places. -> Only the Scientific Revolution gave us science as we know it now.
+	* Which means that science is unlike other forms of investigation
+
+### The Goal of Understanding the Word ‘Science’ is to Develop:
+1. A general understanding of how humans gain knowledge of the world around them.
+2. An understanding of what makes the work descended from the Scientific Revolution *different* from other kinds of investigation of the world.
+
+---
+
+## 1.3 (What Kind of Theory?)
+Philosophy of science has mainly *epistemological* and *metaphysical* issues:
+	* **Epistemology:** the side of philosophy concerned with questions about knowledge, evidence, and rationality.
+		* How can observational evidence justify a scientific theory?
+		* *Can* science succeed in describing the world ‘as it really is’?
+	* **Metaphysics:** the side of philosophy that deals with general questions about the nature of reality.
+
+### What Should a Philosophical Theory Do?
+* What’s the right *form* for a philosophical theory of science?
+* Which questions should philosophers be asking?
+
+*Possibilities for how to approach scientific philosophy a.k.a. how to approach answering what a philosophical theory of science should do:*
+		1. Understanding scientific *thinking*
+		2. Understanding the abstract structure of scientific theories and the relationships between theories and evidence
+			* a.k.a. developing a logical theory of science
+		3. Understanding the set of rules or procedures that scientists do or should follow
+			* a.k.a. developing a methodology 
+		4. Understanding the forces behind the historical progression of science
+			* a.k.a. developing a theory of scientific change
+		5. Understanding scientific strategies for investigating the world, then understanding what kind of connection to the world we can achieve by following those strategies.
+
+### Types of Theories:
+1. Descriptive theory
+	* Attempts to describe what actually goes on, or what something is like, without making value judgements
+2. Normative theory
+	* Makes value judgements, talks about what should go on, or what things should be like.
+
+>  When assessing general claims about science, it’s a good principle to constantly ask: “Is this claim intended to be descriptive or normative, or both?”
+
+### Interpretations of Objectivity
+1. Used to describe the absence of bias; impartiality or fairness
+2. Used to express claims about whether the *existence* of something is independent of our minds
+* a.k.a. objective reality -> a reality that exists regardless of how people conceptualize or describe it
+* Can scientific theories ever describe an objective reality?
+
+### When the Philosophy of Science Aims to Describe the Logical Structure of Science
+In this interpretation, a scientific theory is an abstract structure, like a set of interrelated sentences.
+* Goal is to describe the logical relations between the sentences in the scientific theory and the relations between the theory and observational evidence.
+* Goal can also be to describe the logical relations between different scientific theories in related fields.
+
+---
+
+## 1.4 (Three Answers, or Pieces of an Answer)
+The 3 major families of views/ideas about how science works and what makes it distinctive are:
+1. **Empiricism:** the only source of (all) real knowledge about the world is experience.
+	* Empiricist tradition approaches questions from the standpoint of a general theory of thought and knowledge, and believes that science is the best manifestation of our capacity to investigate the known world.
+> -> Empiricism and Science: 
+> Scientific thinking and investigation have the same basic pattern as everyday thinking and investigation. In each case, the only source of real knowledge about the world is experience. But science is especially successful because it is organized, systematic, and especially responsive to experience.
+* Ignaz Semmelweiss empirically showed that doctors washing their hands before delivering babies reduces risk of infection in mothers.
+* John Snow empirically showed that cholera is spread via contaminated drinking water.
+* Doctor Pettenkofer empirically ‘showed’ that the germ theory was bullshit when he drank a glass of choleric water and didn’t get sick. He showed that direct empirical tests don’t guarantee success
+
+	2. **Mathematics:** logical structures that exist outside of the human mind as absolutes
+> -> Mathematics and Science:
+> What makes science different from other kinds of investigation, and especially successful, is its attempt to understand the natural world using mathematical tools.
+* Experience is a source of knowledge, but not the only one.
+* What makes science special is its attempt to quantify phenomena and detect mathematical patterns in the flow of events.
+	* You could argue that math used as a tool within an empiricist outlook is what makes science special.
+* Counter-example of non-mathematic achievements in science: Darwin’s “On the Origin of Species”
+
+	3. **Scientific Communities:** focuses on the need for a theory of social organization of science 
+> -> Social Structure and Science: 
+> What makes science different from other kinds of investigation, and especially successful, is its unique social structure.
+* Scientists depend on elaborate networks of cooperation and trust. If each individual insisted on testing everything himself, science would never advance beyond the most rudimentary of ideas.
+* Cooperation and lineages of transmitted results are essential to science.
+* Posits that what went on during the Scientific Revolution had to do with working out new ways of policing, controlling, and coordinating the actions of groups of people in the activity of research.
+* Figuring out which *kinds* of experience are relevant to testing hypotheses, who can be trusted as a source of reliable and relevant reports?
+
+> Philosophy of science should integrate the insights of the empiricist tradition with the role for social organization in order to understand science.
+
+### People of Note:
+
+**Aristotle:** Ancient Greek philosopher whose physical theory (theory of natural motions) distinguished ‘natural’ from ‘violent’, or unnatural motion. This theory was part of a more general theory of change in which biological development was a central guiding case, and many events were explained using the idea of *purpose*. His ideas were the basis of the Medieval tradition of Scholastic learning.
+
+**Ignaz Semmelweis:** In 1847, he showed via simple empirical tests that risk of infection in mothers was hugely reduced while giving birth if doctors washed their hands before delivery. His radical claim was opposed and he was eventually driven out of the hospital.
+
+**John Snow:** In 1854, he hypothesized and proved that Cholera was spread via drinking water, proving it empirically by mapping the outbreak.
+
+**Robert Koch & Louis Pasteur:** Further developed the “germ theory of disease” in the early 1880’s. Koch isolated the bacteria responsible for Cholera.
+
+**Max von Pettenkofer:** On October 7 1892, he drank a glass of water full of Cholera bacteria to disprove Koch’s germ theory of disease, and suffered only a week of mild effects that he denied had anything to do with Cholera. He also took sodium bicarbonate to neutralize stomach acid, to counter Koch’s suggestion that it could kill the bacteria. His is a cautionary tale about empirical tests and empirically derived results.
+
+---
+
+## 1.5 (Historical Interlude: A Sketch of the Scientific Revolution)
+The Scientific Revolution occurred between 1550 and 1700 in Europe.
+
+Before it, came the Scholastic worldview, which combined Christianity and Aristotle’s ideas.
+
+### People (& Ideas) of Note:
+
+* **Aristotle:** Ancient Greek philosopher whose physical theory (theory of natural motions) distinguished ‘natural’ from ‘violent’, or unnatural motion. This theory was part of a more general theory of change in which biological development was a central guiding case, and many events were explained using the idea of *purpose*. His ideas were the basis of the Medieval tradition of Scholastic learning.
+
+* **Nicolaus Copernicus:** A Polish astronomer who in 1543 published a work outlining an alternative picture of the universe in which the earth moves around the sun instead of vice versa, and had two motions - revolving on its axis once a day, and orbiting the sun once a year. He insisted that heavenly motions were circular (along with Aristotle and Ptolemy), and didn’t even seem to have considered ellipses as an alternative.
+
+> **Instrumentalism:** A theory about the role of scientific theories that arose in the mid-1500’s stating that we should think of [scientific] theories only as predictive tools for calculation, rather than as attempts to describe the hidden structure of nature.
+
+* **Galileo Galilei:** In the early 1600’s, he exalted mathematics, and praised Copernicus for making, “reason conquer sense [experience]” for positing that the earth revolves around the sun, not vice versa. He advanced the use of telescopes to look at the heavens, and used a combination of mathematics and experimentation to begin the formulation of a new science of motion that would make sense of the idea of a moving earth and explain familiar facts about dropped and thrown objects. He thought that heavenly motions were circular too (along with Copernicus, Aristotle, and Ptolemy), insisting that circular motion was astronomically fundamental.
+
+* **Giordano Bruno:** was burned at the stake in 1600 in Rome for heresy for reusing to disown his unorthodox speculations about the place of the earth in the universe.
+
+* **Steve Shapin:** In 1984, argued that a good theory of the social organization of science is a better theory of science than mainstream empiricist fantasies. 
+
+* **Johannes Kepler:** He was a mystical thinker who in the early 1600’s combined Copernicanism with an obsession with finding mathematical harmony (including musical tunes) in the structure of the heavens. His model of the universe had planets moving in ellipses rather than circles around the sun. This led to massive simplification and better predictive accuracy.
+
+* **Andreas Vesalius:** In 1543, he published work in which he was the first to begin to free anatomy from dependence on ancient authority (like Galen’s theory of miasmas), and set it on a more empirical path.
+
+* **William Harvey:** In 1628, he established the circulation of blood and the role of the heart as a pump as a result of Vesalius’ school’s influence. 
+
+* **René Descartes:** A rationalist who in the mid-1600’s thought that an immaterial soul and a traditional God must be posited as well as physical corpuscles in the prevailing theory of mechanism/mechanical philosophy. He believed that pure reasoning can be a route to knowledge that doesn’t depend on experience (e.g mathematics).
+
+> **Mechanism:** A theory about matter from 1650’s that combined ideas about  the composition of things with ideas about causation and explanation. Posits that the world is made up of tiny corpuscles of matter, which interact only by local physical contact. So explanations of physical phenomena should only be given in terms of mechanical interactions, as if operating like a mechanical clock. Most mechanical philosophers retained a role for a Christian God in their overall pictures of the world
+> 
+> Mechanical philosophers retained a role for a Christian God in their pictures of the world: “If the world is a clock, who set it in motion?”
+
+* **Robert Boyle:** Integrated a version of mechanism into a program of research that urged systematic experiment and avoidance of un-empirical speculation.
+
+* **Isaac Newton:** In 1687 he published “Principia,” which gave a unified mathematical treatment of motion both on earth and in the heavens. He showed why Kepler’s elliptical orbits were the inevitable outcome of the force of gravity operating between heavenly bodies. Considered post-mechanical.
+
+#### Developments in Chemistry in the 1800’s:
+* **Antoine Lavoisier:** described oxygen and it’s role in combustion, is said to have initiated the Chemical Revolution in the 1770’s.
+* **Dalton, Mendeleyev** and others established basic features of modern chemistry, like the periodic table of elements.
+
+#### Developments in Biology in the 1800’s:
+* **Linnaeus** systematized biological classification in the 1700’s.
+1. Theory that organisms are comprised of cells
+2. Darwin’s theory of  evolution
+3. Germ theory of disease
+4. Mendelian inheritance which laid the foundation for genetics

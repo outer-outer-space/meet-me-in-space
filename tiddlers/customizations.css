@@ -1,0 +1,23 @@
+.tc-site-title,
+.jd-sitetitle {
+  font-family: 'chomskyregular', serif;
+  font-size: 40px;
+  line-height: .9;
+  color: #0047ff;
+}
+.tc-title {
+  font-family: 'chomskyregular', serif;
+}
+button.tc-tag-label, span.tc-tag-label {
+  background: #0047ff;
+  color: #ffffff !important;
+}
+button.tc-tag-label:hover, span.tc-tag-label:hover {
+  background: #0004de;
+}
+.tc-tiddler-controls {
+  font-size: .75em;
+}
+code {
+  font-size: 14px !important;
+}

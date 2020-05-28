@@ -1,0 +1,11 @@
+author: JeremyRuston
+core-version: >=5.0.0"
+created: 20200524230441380
+description: English (British)
+modified: 20200525182050404
+modifier: hibs
+name: en-GB
+title: $:/languages/en-GB
+type: text/vnd.tiddlywiki
+
+Stub pseudo-plugin for the default language

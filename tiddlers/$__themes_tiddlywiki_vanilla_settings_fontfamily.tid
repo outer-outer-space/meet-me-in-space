@@ -1,0 +1,8 @@
+created: 20200524223537496
+creator: hibs
+modified: 20200524225136246
+modifier: hibs
+title: $:/themes/tiddlywiki/vanilla/settings/fontfamily
+type: text/vnd.tiddlywiki
+
+-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"

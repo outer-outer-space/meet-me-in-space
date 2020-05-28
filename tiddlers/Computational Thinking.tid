@@ -1,0 +1,37 @@
+created: 20200525181524990
+modified: 20200525183019768
+tags: BookNotes Computing
+title: Computational Thinking
+type: text/x-markdown
+
+**Book:** Computational Thinking
+**Authors:** Peter J. Denning, Matti Tedre
+**Find Online:** [https://mitpress.mit.edu/books/computational-thinking](https://mitpress.mit.edu/books/computational-thinking)
+**Date Read:** October 2019
+
+## Why did I choose to read this book?
+I got this book in the Tate Modern's gift shop on my second visit there during my trip to London 8 months ago. It's an odd book to find in an art museum gift shop. I found a lot of great books there, and this one missed my first sweep the first time I went in. By the second time around, I had resigned myself to splurging on any book that caught my eye, flights and baggage be damned. I'm glad I made that choice 🙂
+
+## Table of Contents
+1. What is Computational Thinking?
+2. Computational Methods
+	1. CT related to algorithmic procedures to automate processes
+		1. Mathematicians and engineers developed methods for computing and reasoning that non-experts could put to work simply by following directions.
+3. Computing Machines
+	1. CT relate to computing machinery
+		1. Inventors looked for machines to automate computational procedures for the purpose of greater speed of calculation and reduction of human errors in carrying out computations.
+4. Computer Science
+	1. CT related to the theory of computing and academic discipline 
+		1. University educators formed computer science to study and codify computation and its ways of thinking and practicing for institutions, businesses science, and engineering.
+5. Software Engineering
+	1. CT related to building large software systems
+		1. Software developers formed software engineering to overcome rampant problems with errors and unreliability in software especially large software systems such as major applications and operating systems.
+6. Designing for Humans
+	1. CT related to designing for all humans
+		1. Designers bring sensibilities and responsiveness to concerns, interests, practices, and history in user communities.
+7. Computational Science
+	1. CT related to all the sciences
+			1. Scientists form computational science to bring computing into science, not only to support the traditions of theory and experiment, but also to offer revolutionary new ways of interpreting natural processes and conducting scientific investigation.
+8. Teaching Computational Thinking for All
+9. Future Computation
+10. Epilogue: Lessons Learned
