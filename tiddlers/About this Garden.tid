@@ -1,11 +1,11 @@
 created: 20200525221320705
-modified: 20200528154402396
+modified: 20200528154622158
 title: About this Garden
 type: text/vnd.tiddlywiki
 
 🌱 ''This is a static representation of a personal wiki run by [[Sarah Hibner|http://sarah-hibner.com/]]. It has limited functionality (e.g. tags don't work) compared to the local version. ''
 
-This wiki was built using TiddlyWiki and Node JS. It's hosted on Github Pages, and uses quite a few modifications, including the following:
+This wiki was built using TiddlyWiki and Node JS. It's hosted on Github Pages, and the following modifications:
 
 * [[Whitespace|http://j.d.whitespace.tiddlyspot.com/]] theme by [[JD|http://j.d.tiddlyspot.com/]]
 * [[TiddlyBlink|https://giffmex.org/gifts/tiddlyblink.html#TiddlyBlink%20home]] plugin by [[Dave Gifford|https://giffmex.org/]]
