@@ -2112,6 +2112,17 @@ a.tc-tiddlylink:hover {
 	fill: #ffffff;
 }
 
+.bimlas-disqus-toggle {
+	display: block;
+	width: 100%;
+	text-align: right;
+}
+
+.bimlas-disqus-toggle img {
+	height: 1rem;
+}
+
+
 .matched{background-color:yellow}
 .tw-context {/*border:1px solid;
   /*word-break: break-all; word-wrap: break-word*/}
