@@ -1,5 +1,5 @@
 created: 20200525221320705
-modified: 20200615013653634
+modified: 20200615014019369
 title: About this Garden
 type: text/vnd.tiddlywiki
 
@@ -9,7 +9,6 @@ This wiki was built using TiddlyWiki and Node JS. It has the following modificat
 
 * [[Whitespace|http://j.d.whitespace.tiddlyspot.com/]] theme by [[JD|http://j.d.tiddlyspot.com/]]
 * [[TiddlyBlink|https://giffmex.org/gifts/tiddlyblink.html#TiddlyBlink%20home]] plugin by [[Dave Gifford|https://giffmex.org/]]
-* [[Disqus comments plugin|https://bimlas.gitlab.io/tw5-disqus/]] by bimlas
 * [[Markdown|https://tiddlywiki.com/plugins/tiddlywiki/markdown/]] parser plugin based on [[Remarkable|https://github.com/jonschlinkert/remarkable]] by [[Jon Schlinkert|https://github.com/jonschlinkert]]
 * [[Chomsky|https://www.fontsquirrel.com/fonts/chomsky]] web font by [[Fredrick Brennan|https://github.com/ctrlcctrlv]]
 * [[UFO icon|https://www.flaticon.com/free-icon/ufo_305905?term=ufo&page=8&position=89]] by [[Zlatko Najdenovski|http://www.pixelinspired.com/]] as part of his Line Queen icon pack, used as my favicon
